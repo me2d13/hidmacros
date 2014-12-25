@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{27181E22-0D48-4ACC-994C-767EE7072A9A}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  <Projects>
+      <Projects Name="HIDMacros.exe">HIDMacros.bdsproj</Projects>
+      <Projects Name="HidMacrosXpl.xpl">HidMacrosXpl.bdsproj</Projects>
+      <Projects Name="Winhook.dll">Winhook.bdsproj</Projects>
+      <Projects Name="Targets">HIDMacros.exe HidMacrosXpl.xpl Winhook.dll</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>

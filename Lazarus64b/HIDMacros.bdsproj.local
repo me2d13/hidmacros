@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/01/10 19:34:34.375.pas,C:\Documents and Settings\ken.adam\My Documents\Borland Studio Projects\Unit2.pas=D:\Software Projects\BDS2006\Simulation\FSX\Tagged Data\TDU.pas</Transaction>
+    <Transaction>2007/01/10 19:34:34.406.dfm,C:\Documents and Settings\ken.adam\My Documents\Borland Studio Projects\Unit2.dfm=D:\Software Projects\BDS2006\Simulation\FSX\Tagged Data\TDU.dfm</Transaction>
+    <Transaction>2007/01/10 19:34:42.218.bdsproj,C:\Documents and Settings\ken.adam\My Documents\Borland Studio Projects\Project2.bdsproj=D:\Software Projects\BDS2006\Simulation\FSX\Tagged Data\TaggedData.bdsproj</Transaction>
+    <Transaction>2007/01/15 07:57:00.984.bdsproj,D:\Software Projects\BDS2006\Simulation\FSX\Tagged Data\TaggedData.bdsproj=D:\Software Projects\BDS2006\Simulation\FSX\Request Data\RequestData.bdsproj</Transaction>
+    <Transaction>2007/01/15 07:57:30.468.pas,D:\Software Projects\BDS2006\Simulation\FSX\Tagged Data\TDU.pas=D:\Software Projects\BDS2006\Simulation\FSX\Request Data\RDU.pas</Transaction>
+    <Transaction>2007/01/15 07:57:30.468.dfm,D:\Software Projects\BDS2006\Simulation\FSX\Tagged Data\TDU.dfm=D:\Software Projects\BDS2006\Simulation\FSX\Request Data\RDU.dfm</Transaction>
+    <Transaction>2007/01/15 08:07:38.515.pas,D:\Software Projects\BDS2006\Simulation\FSX\SimConnect_6.pas=</Transaction>
+    <Transaction>2007/01/15 11:36:34.437.bdsproj,D:\Software Projects\BDS2006\Simulation\FSX\Request Data\RequestData.bdsproj=D:\Software Projects\BDS2006\Simulation\FSX\Set Data\SetData.bdsproj</Transaction>
+    <Transaction>2007/01/15 11:36:48.046.pas,D:\Software Projects\BDS2006\Simulation\FSX\Request Data\RDU.pas=D:\Software Projects\BDS2006\Simulation\FSX\Set Data\SDU.pas</Transaction>
+    <Transaction>2007/01/15 11:36:48.046.dfm,D:\Software Projects\BDS2006\Simulation\FSX\Request Data\RDU.dfm=D:\Software Projects\BDS2006\Simulation\FSX\Set Data\SDU.dfm</Transaction>
+    <Transaction>2007/01/16 08:21:14.093.bdsproj,D:\Software Projects\BDS2006\Simulation\FSX\Set Data\SetData.bdsproj=H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Set Data\SetData.bdsproj</Transaction>
+    <Transaction>2007/01/16 08:21:28.296.pas,d:\software projects\bds2006\simulation\fsx\set data\SDU.pas=H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Set Data\SDU.pas</Transaction>
+    <Transaction>2007/01/16 08:21:28.296.dfm,d:\software projects\bds2006\simulation\fsx\set data\SDU.dfm=H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Set Data\SDU.dfm</Transaction>
+    <Transaction>2007/01/16 08:21:45.593.pas,d:\software projects\bds2006\simulation\fsx\header\SimConnectKA.pas=H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Header\SimConnectKA.pas</Transaction>
+    <Transaction>2007/01/16 08:32:49.421.bdsproj,H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Set Data\SetData.bdsproj=H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Client Event\ClientEvent.bdsproj</Transaction>
+    <Transaction>2007/01/16 08:33:00.593.pas,H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Set Data\SDU.pas=H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Set Data\CEU.pas</Transaction>
+    <Transaction>2007/01/16 08:33:00.593.dfm,H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Set Data\SDU.dfm=H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Set Data\CEU.dfm</Transaction>
+    <Transaction>2007/01/16 08:33:21.515.pas,H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Set Data\CEU.pas=H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Client Event\CEU.pas</Transaction>
+    <Transaction>2007/01/16 08:33:21.515.dfm,H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Set Data\CEU.dfm=H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Client Event\CEU.dfm</Transaction>
+    <Transaction>2007/01/27 09:37:27.906.pas,H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Header\SimConnectKA.pas=H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Header\SimConnectDynamic.pas</Transaction>
+    <Transaction>2007/01/27 09:37:49.218.pas,H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Header\SimConnectDynamic.pas=H:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Header\SimConnectKA.pas</Transaction>
+    <Transaction>2007/02/04 18:02:21.093.pas,C:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Header\SimConnectKA.pas=</Transaction>
+    <Transaction>2007/02/08 08:56:44.984.pas,C:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Header\SimConnectDynamic.pas=C:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Header\SimConnect.pas</Transaction>
+    <Transaction>2007/02/14 08:23:10.281.pas,c:\program files\microsoft games\microsoft flight simulator x sdk\sdk\core utilities kit\simconnect sdk\delphi\header\SimConnect.pas=C:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Header\SimConnectDynamic.pas</Transaction>
+    <Transaction>2007/02/14 08:25:20.312.pas,C:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Header\SimConnectDynamic.pas=C:\Program Files\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Core Utilities Kit\SimConnect SDK\Delphi\Header\SimConnectRT.pas</Transaction>
+    <Transaction>2008.04.23 21:30:33.765.bdsproj,C:\Work\TurboDelphi\SimConnect\Client Event\ClientEvent.bdsproj=C:\Work\TurboDelphi\FSX_HID\test.bdsproj</Transaction>
+    <Transaction>2008.04.23 21:33:14.515.pas,C:\Work\TurboDelphi\SimConnect\Client Event\CEU.pas=C:\Work\TurboDelphi\FSX_HID\CfgForm.pas</Transaction>
+    <Transaction>2008.04.23 21:33:14.515.dfm,C:\Work\TurboDelphi\SimConnect\Client Event\CEU.dfm=C:\Work\TurboDelphi\FSX_HID\CfgForm.dfm</Transaction>
+    <Transaction>2008.04.24 19:30:34.015.pas,C:\Work\TurboDelphi\FSX_HID\Unit1.pas=C:\Work\TurboDelphi\FSX_HID\uRawInput.pas</Transaction>
+    <Transaction>2008.04.25 23:09:43.437.pas,C:\Work\TurboDelphi\FSX_HID\Unit1.pas=C:\Work\TurboDelphi\FSX_HID\KbdMacro.pas</Transaction>
+    <Transaction>2008.04.26 15:38:58.312.pas,C:\Work\TurboDelphi\FSX_HID\Unit1.pas=C:\Work\TurboDelphi\FSX_HID\sndkey32.pas</Transaction>
+    <Transaction>2008.04.26 22:15:06.859.pas,C:\Work\TurboDelphi\FSX_HID\Unit1.pas=C:\Work\TurboDelphi\FSX_HID\SCevents.pas</Transaction>
+    <Transaction>2008.04.27 18:33:15.546.bdsproj,C:\Work\TurboDelphi\FSX_HID\test.bdsproj=C:\Work\TurboDelphi\FSX_HID\HIDMacros.bdsproj</Transaction>
+    <Transaction>2008.04.28 17:57:47.203.pas,C:\Work\TurboDelphi\SimConnect\HeaderRT\SimConnect.pas=</Transaction>
+    <Transaction>2011.05.01 07:26:33.211.pas,C:\Work\MySources\HidMacros\Unit1.pas=C:\Work\MySources\HidMacros\uMapForm.pas</Transaction>
+    <Transaction>2011.05.01 07:26:33.211.dfm,C:\Work\MySources\HidMacros\Unit1.dfm=C:\Work\MySources\HidMacros\uMapForm.dfm</Transaction>
+    <Transaction>2011.06.07 18:42:19.083.pas,C:\Work\MySources\HidMacros\sndkey32.pas=</Transaction>
+    <Transaction>2012.09.12 22:54:43.515.pas,C:\Work\MySources\HidMacros\Unit1.pas=C:\Work\MySources\HidMacros\uConfig.pas</Transaction>
+    <Transaction>2012.09.29 21:42:07.026.pas,C:\Work\MySources\HidMacros\Unit1.pas=C:\Work\MySources\HidMacros\uHIDControl.pas</Transaction>
+    <Transaction>2012.10.11 00:46:55.692.pas,C:\Work\MySources\HidMacros\Unit1.pas=C:\Work\MySources\HidMacros\uMoveMacrosForm.pas</Transaction>
+    <Transaction>2012.10.11 00:46:55.692.dfm,C:\Work\MySources\HidMacros\Unit1.dfm=C:\Work\MySources\HidMacros\uMoveMacrosForm.dfm</Transaction>
+    <Transaction>2013.02.20 00:19:17.413.pas,C:\Work\MySources\HidMacros\uGameDevices.pas=C:\Work\MySources\HidMacros\uMidiDevices.pas</Transaction>
+    <Transaction>2013.03.13 22:54:49.015.pas,C:\Work\MySources\HidMacros\uHidMacrosIntf.pas=C:\Work\MySources\uHidMacrosIntf.pas</Transaction>
+    <Transaction>2013.03.13 22:55:08.021.pas,C:\Work\MySources\uHidMacrosIntf.pas=C:\Work\MySources\HidMacros\uHidMacrosIntf.pas</Transaction>
+    <Transaction>2013.03.13 23:01:51.546.pas,C:\Work\MySources\HidMacros\HIDMacros_TLB.pas=</Transaction>
+    <Transaction>2013.03.13 23:01:58.940.tlb,C:\Work\MySources\HidMacros\HIDMacros.tlb=</Transaction>
+  </Transactions>
+</BorlandProject>
