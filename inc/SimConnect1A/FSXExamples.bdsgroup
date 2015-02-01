@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{F6D55116-975E-4C9D-982B-68CB3C52B8E1}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  <Projects>
+      <Projects Name="AIObjects.exe">AI Objects And Waypoints\AIObjects.bdsproj</Projects>
+      <Projects Name="AITraffic.exe">AI Traffic\AITraffic.bdsproj</Projects>
+      <Projects Name="ClientEvent.exe">Client Event\ClientEvent.bdsproj</Projects>
+      <Projects Name="CockpitCamera.exe">Cockpit Camera\CockpitCamera.bdsproj</Projects>
+      <Projects Name="DialogBoxMode.exe">Dialog Box Mode\DialogBoxMode.bdsproj</Projects>
+      <Projects Name="InputEvent.exe">Input Event\InputEvent.bdsproj</Projects>
+      <Projects Name="JoystickInput.exe">Joystick Input\JoystickInput.bdsproj</Projects>
+      <Projects Name="NoCallback.exe">No Callback\NoCallback.bdsproj</Projects>
+      <Projects Name="OpenAndClose.exe">Open and Close\OpenAndClose.bdsproj</Projects>
+      <Projects Name="RequestData.exe">Request Data\RequestData.bdsproj</Projects>
+      <Projects Name="ReservedKey.exe">Reserved Key\ReservedKey.bdsproj</Projects>
+      <Projects Name="TaggedData.exe">Tagged Data\TaggedData.bdsproj</Projects>
+      <Projects Name="SendEventC.exe">Send Event C\SendEventC.bdsproj</Projects>
+      <Projects Name="SystemEvent.exe">System Event\SystemEvent.bdsproj</Projects>
+      <Projects Name="SendEventA.exe">Send Event A\SendEventA.bdsproj</Projects>
+      <Projects Name="SendEventB.exe">Send Event B\SendEventB.bdsproj</Projects>
+      <Projects Name="VariableStrings.exe">Variable Strings\VariableStrings.bdsproj</Projects>
+      <Projects Name="WeatherStation.exe">Weather Station\WeatherStation.bdsproj</Projects>
+      <Projects Name="ThrottleControl.exe">Throttle Control\ThrottleControl.bdsproj</Projects>
+      <Projects Name="TrackingErrors.exe">Tracking Errors\TrackingErrors.bdsproj</Projects>
+      <Projects Name="WindowsEvent.exe">Windows Event\WindowsEvent.bdsproj</Projects>
+      <Projects Name="MissionAction.exe">Mission Action\MissionAction.bdsproj</Projects>
+      <Projects Name="SetData.exe">Set Data\SetData.bdsproj</Projects>
+      <Projects Name="MenuItems.exe">Menu Items\MenuItems.bdsproj</Projects>
+      <Projects Name="Targets">AIObjects.exe AITraffic.exe ClientEvent.exe CockpitCamera.exe DialogBoxMode.exe InputEvent.exe JoystickInput.exe NoCallback.exe OpenAndClose.exe RequestData.exe ReservedKey.exe TaggedData.exe SendEventC.exe SystemEvent.exe SendEventA.exe SendEventB.exe VariableStrings.exe WeatherStation.exe ThrottleControl.exe TrackingErrors.exe WindowsEvent.exe MissionAction.exe SetData.exe MenuItems.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+	<StarTeamAssociation></StarTeamAssociation>
+	<StarTeamNonRelativeFiles></StarTeamNonRelativeFiles>
+</BorlandProject>

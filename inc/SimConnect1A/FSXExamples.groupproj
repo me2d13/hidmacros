@@ -1,0 +1,271 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<ProjectGuid>{755d0c49-c081-48e5-8ef7-848f696efd1d}</ProjectGuid>
+	</PropertyGroup>
+	<ItemGroup/>
+	<ItemGroup/>
+	<ProjectExtensions>
+		<Borland.Personality>Default.Personality</Borland.Personality>
+		<Borland.ProjectType/>
+		<BorlandProject>
+			<BorlandProject xmlns="">
+				<Default.Personality/>
+			</BorlandProject>
+		</BorlandProject>
+	</ProjectExtensions>
+	<Target Name="AIObjects">
+		<MSBuild Projects="AI Objects And Waypoints\AIObjects.dproj" Targets=""/>
+	</Target>
+	<Target Name="AIObjects:Clean">
+		<MSBuild Projects="AI Objects And Waypoints\AIObjects.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="AIObjects:Make">
+		<MSBuild Projects="AI Objects And Waypoints\AIObjects.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="AITraffic">
+		<MSBuild Projects="AI Traffic\AITraffic.dproj" Targets=""/>
+	</Target>
+	<Target Name="AITraffic:Clean">
+		<MSBuild Projects="AI Traffic\AITraffic.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="AITraffic:Make">
+		<MSBuild Projects="AI Traffic\AITraffic.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="ClientEvent">
+		<MSBuild Projects="Client Event\ClientEvent.dproj" Targets=""/>
+	</Target>
+	<Target Name="ClientEvent:Clean">
+		<MSBuild Projects="Client Event\ClientEvent.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="ClientEvent:Make">
+		<MSBuild Projects="Client Event\ClientEvent.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="CockpitCamera">
+		<MSBuild Projects="Cockpit Camera\CockpitCamera.dproj" Targets=""/>
+	</Target>
+	<Target Name="CockpitCamera:Clean">
+		<MSBuild Projects="Cockpit Camera\CockpitCamera.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="CockpitCamera:Make">
+		<MSBuild Projects="Cockpit Camera\CockpitCamera.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="DialogBoxMode">
+		<MSBuild Projects="Dialog Box Mode\DialogBoxMode.dproj" Targets=""/>
+	</Target>
+	<Target Name="DialogBoxMode:Clean">
+		<MSBuild Projects="Dialog Box Mode\DialogBoxMode.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="DialogBoxMode:Make">
+		<MSBuild Projects="Dialog Box Mode\DialogBoxMode.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="InputEvent">
+		<MSBuild Projects="Input Event\InputEvent.dproj" Targets=""/>
+	</Target>
+	<Target Name="InputEvent:Clean">
+		<MSBuild Projects="Input Event\InputEvent.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="InputEvent:Make">
+		<MSBuild Projects="Input Event\InputEvent.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="JoystickInput">
+		<MSBuild Projects="Joystick Input\JoystickInput.dproj" Targets=""/>
+	</Target>
+	<Target Name="JoystickInput:Clean">
+		<MSBuild Projects="Joystick Input\JoystickInput.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="JoystickInput:Make">
+		<MSBuild Projects="Joystick Input\JoystickInput.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="NoCallback">
+		<MSBuild Projects="No Callback\NoCallback.dproj" Targets=""/>
+	</Target>
+	<Target Name="NoCallback:Clean">
+		<MSBuild Projects="No Callback\NoCallback.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="NoCallback:Make">
+		<MSBuild Projects="No Callback\NoCallback.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="OpenAndClose">
+		<MSBuild Projects="Open and Close\OpenAndClose.dproj" Targets=""/>
+	</Target>
+	<Target Name="OpenAndClose:Clean">
+		<MSBuild Projects="Open and Close\OpenAndClose.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="OpenAndClose:Make">
+		<MSBuild Projects="Open and Close\OpenAndClose.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="RequestData">
+		<MSBuild Projects="Request Data\RequestData.dproj" Targets=""/>
+	</Target>
+	<Target Name="RequestData:Clean">
+		<MSBuild Projects="Request Data\RequestData.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="RequestData:Make">
+		<MSBuild Projects="Request Data\RequestData.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="ReservedKey">
+		<MSBuild Projects="Reserved Key\ReservedKey.dproj" Targets=""/>
+	</Target>
+	<Target Name="ReservedKey:Clean">
+		<MSBuild Projects="Reserved Key\ReservedKey.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="ReservedKey:Make">
+		<MSBuild Projects="Reserved Key\ReservedKey.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="TaggedData">
+		<MSBuild Projects="Tagged Data\TaggedData.dproj" Targets=""/>
+	</Target>
+	<Target Name="TaggedData:Clean">
+		<MSBuild Projects="Tagged Data\TaggedData.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="TaggedData:Make">
+		<MSBuild Projects="Tagged Data\TaggedData.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="SendEventC">
+		<MSBuild Projects="Send Event C\SendEventC.dproj" Targets=""/>
+	</Target>
+	<Target Name="SendEventC:Clean">
+		<MSBuild Projects="Send Event C\SendEventC.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="SendEventC:Make">
+		<MSBuild Projects="Send Event C\SendEventC.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="SystemEvent">
+		<MSBuild Projects="System Event\SystemEvent.dproj" Targets=""/>
+	</Target>
+	<Target Name="SystemEvent:Clean">
+		<MSBuild Projects="System Event\SystemEvent.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="SystemEvent:Make">
+		<MSBuild Projects="System Event\SystemEvent.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="SendEventA">
+		<MSBuild Projects="Send Event A\SendEventA.dproj" Targets=""/>
+	</Target>
+	<Target Name="SendEventA:Clean">
+		<MSBuild Projects="Send Event A\SendEventA.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="SendEventA:Make">
+		<MSBuild Projects="Send Event A\SendEventA.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="SendEventB">
+		<MSBuild Projects="Send Event B\SendEventB.dproj" Targets=""/>
+	</Target>
+	<Target Name="SendEventB:Clean">
+		<MSBuild Projects="Send Event B\SendEventB.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="SendEventB:Make">
+		<MSBuild Projects="Send Event B\SendEventB.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="VariableStrings">
+		<MSBuild Projects="Variable Strings\VariableStrings.dproj" Targets=""/>
+	</Target>
+	<Target Name="VariableStrings:Clean">
+		<MSBuild Projects="Variable Strings\VariableStrings.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="VariableStrings:Make">
+		<MSBuild Projects="Variable Strings\VariableStrings.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="WeatherStation">
+		<MSBuild Projects="Weather Station\WeatherStation.dproj" Targets=""/>
+	</Target>
+	<Target Name="WeatherStation:Clean">
+		<MSBuild Projects="Weather Station\WeatherStation.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="WeatherStation:Make">
+		<MSBuild Projects="Weather Station\WeatherStation.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="ThrottleControl">
+		<MSBuild Projects="Throttle Control\ThrottleControl.dproj" Targets=""/>
+	</Target>
+	<Target Name="ThrottleControl:Clean">
+		<MSBuild Projects="Throttle Control\ThrottleControl.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="ThrottleControl:Make">
+		<MSBuild Projects="Throttle Control\ThrottleControl.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="TrackingErrors">
+		<MSBuild Projects="Tracking Errors\TrackingErrors.dproj" Targets=""/>
+	</Target>
+	<Target Name="TrackingErrors:Clean">
+		<MSBuild Projects="Tracking Errors\TrackingErrors.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="TrackingErrors:Make">
+		<MSBuild Projects="Tracking Errors\TrackingErrors.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="WindowsEvent">
+		<MSBuild Projects="Windows Event\WindowsEvent.dproj" Targets=""/>
+	</Target>
+	<Target Name="WindowsEvent:Clean">
+		<MSBuild Projects="Windows Event\WindowsEvent.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="WindowsEvent:Make">
+		<MSBuild Projects="Windows Event\WindowsEvent.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="MissionAction">
+		<MSBuild Projects="Mission Action\MissionAction.dproj" Targets=""/>
+	</Target>
+	<Target Name="MissionAction:Clean">
+		<MSBuild Projects="Mission Action\MissionAction.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="MissionAction:Make">
+		<MSBuild Projects="Mission Action\MissionAction.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="SetData">
+		<MSBuild Projects="Set Data\SetData.dproj" Targets=""/>
+	</Target>
+	<Target Name="SetData:Clean">
+		<MSBuild Projects="Set Data\SetData.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="SetData:Make">
+		<MSBuild Projects="Set Data\SetData.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="MenuItems">
+		<MSBuild Projects="Menu Items\MenuItems.dproj" Targets=""/>
+	</Target>
+	<Target Name="MenuItems:Clean">
+		<MSBuild Projects="Menu Items\MenuItems.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="MenuItems:Make">
+		<MSBuild Projects="Menu Items\MenuItems.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="FacilitiesData">
+		<MSBuild Projects="FacilitiesData\FacilitiesData.dproj" Targets=""/>
+	</Target>
+	<Target Name="FacilitiesData:Clean">
+		<MSBuild Projects="FacilitiesData\FacilitiesData.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="FacilitiesData:Make">
+		<MSBuild Projects="FacilitiesData\FacilitiesData.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="TextMenu">
+		<MSBuild Projects="TextMenu\TextMenu.dproj" Targets=""/>
+	</Target>
+	<Target Name="TextMenu:Clean">
+		<MSBuild Projects="TextMenu\TextMenu.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="TextMenu:Make">
+		<MSBuild Projects="TextMenu\TextMenu.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="TextMenuStd">
+		<MSBuild Projects="TextMenu(Standard)\TextMenuStd.dproj" Targets=""/>
+		<CallTarget>
+			<Target/>
+		</CallTarget>
+	</Target>
+	<Target Name="TextMenuStd:Clean">
+		<MSBuild Projects="TextMenu(Standard)\TextMenuStd.dproj" Targets="Clean"/>
+	</Target>
+	<Target Name="TextMenuStd:Make">
+		<MSBuild Projects="TextMenu(Standard)\TextMenuStd.dproj" Targets="Make"/>
+	</Target>
+	<Target Name="Build">
+		<CallTarget Targets="AIObjects;AITraffic;ClientEvent;CockpitCamera;DialogBoxMode;FacilitiesData;InputEvent;JoystickInput;MenuItems;MissionAction;NoCallback;OpenAndClose;RequestData;ReservedKey;SendEventA;SendEventB;SendEventC;SetData;SystemEvent;TaggedData;TextMenu;TextMenuStd;ThrottleControl;TrackingErrors;VariableStrings;WeatherStation;WindowsEvent;"/>
+	</Target>
+	<Target Name="Clean">
+		<CallTarget Targets="AIObjects:Clean;AITraffic:Clean;ClientEvent:Clean;CockpitCamera:Clean;DialogBoxMode:Clean;InputEvent:Clean;JoystickInput:Clean;NoCallback:Clean;OpenAndClose:Clean;RequestData:Clean;ReservedKey:Clean;TaggedData:Clean;SendEventC:Clean;SystemEvent:Clean;SendEventA:Clean;SendEventB:Clean;VariableStrings:Clean;WeatherStation:Clean;ThrottleControl:Clean;TrackingErrors:Clean;WindowsEvent:Clean;MissionAction:Clean;SetData:Clean;MenuItems:Clean;FacilitiesData:Clean;TextMenu:Clean;TextMenuStd:Clean"/>
+	</Target>
+	<Target Name="Make">
+		<CallTarget Targets="AIObjects:Make;AITraffic:Make;ClientEvent:Make;CockpitCamera:Make;DialogBoxMode:Make;InputEvent:Make;JoystickInput:Make;NoCallback:Make;OpenAndClose:Make;RequestData:Make;ReservedKey:Make;TaggedData:Make;SendEventC:Make;SystemEvent:Make;SendEventA:Make;SendEventB:Make;VariableStrings:Make;WeatherStation:Make;ThrottleControl:Make;TrackingErrors:Make;WindowsEvent:Make;MissionAction:Make;SetData:Make;MenuItems:Make;FacilitiesData:Make;TextMenu:Make;TextMenuStd:Make"/>
+	</Target>
+</Project>

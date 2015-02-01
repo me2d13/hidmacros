@@ -121,11 +121,11 @@
 			<Linker Name="AutoGenImportAssembly">False</Linker>
 		</Linker>
 		<Directories>
-			<Directories Name="OutputDir">C:\Work\TurboDelphi\out</Directories>
-			<Directories Name="UnitOutputDir">C:\Work\TurboDelphi\out</Directories>
-			<Directories Name="PackageDLLOutputDir">C:\Work\TurboDelphi\out</Directories>
-			<Directories Name="PackageDCPOutputDir">C:\Work\TurboDelphi\out</Directories>
-			<Directories Name="SearchPath">c:\Work\TurboDelphi\SimConnect1A\HeaderRT;c:\Work\TurboDelphi\SimConnect1A;c:\Work\TurboDelphi\DirectX\Borland_D9-10;c:\Work\TurboDelphi\Unicode;C:\Work\TurboDelphi\XPL\SDK212\Delphi\XPLM;C:\Work\TurboDelphi\Includes\midiio</Directories>
+			<Directories Name="OutputDir">..\out</Directories>
+			<Directories Name="UnitOutputDir">..\out</Directories>
+			<Directories Name="PackageDLLOutputDir">..\out</Directories>
+			<Directories Name="PackageDCPOutputDir">..\out</Directories>
+			<Directories Name="SearchPath">..\inc\SimConnect1A\HeaderRT;..\inc\SimConnect1A;..\inc\DirectX_Borland_D9-10;..\inc\Unicode;..\inc\XPL_SDK212_XPLM;..\inc\midiio</Directories>
 			<Directories Name="Packages">vclx;vcl;rtl;dbrtl;vcldb;adortl;dbxcds;dbexpress;xmlrtl;vclie;inet;inetdbbde;inetdbxpress;dclOfficeXP;soaprtl;dsnap;vclactnband</Directories>
 			<Directories Name="Conditionals">XPLM200</Directories>
 			<Directories Name="DebugSourceDirs"></Directories>
@@ -152,7 +152,7 @@
 			<VersionInfo Name="MajorVer">2</VersionInfo>
 			<VersionInfo Name="MinorVer">3</VersionInfo>
 			<VersionInfo Name="Release">0</VersionInfo>
-			<VersionInfo Name="Build">729</VersionInfo>
+			<VersionInfo Name="Build">730</VersionInfo>
 			<VersionInfo Name="Debug">False</VersionInfo>
 			<VersionInfo Name="PreRelease">True</VersionInfo>
 			<VersionInfo Name="Special">False</VersionInfo>
@@ -164,7 +164,7 @@
 		<VersionInfoKeys>
 			<VersionInfoKeys Name="CompanyName"></VersionInfoKeys>
 			<VersionInfoKeys Name="FileDescription"></VersionInfoKeys>
-			<VersionInfoKeys Name="FileVersion">2.3.0.729</VersionInfoKeys>
+			<VersionInfoKeys Name="FileVersion">2.3.0.730</VersionInfoKeys>
 			<VersionInfoKeys Name="InternalName"></VersionInfoKeys>
 			<VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys>
 			<VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys>
