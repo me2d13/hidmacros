@@ -22,10 +22,10 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="uXplPluginEngine"/>
         <IsVisibleTab Value="True"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="189"/>
-        <CursorPos X="30" Y="207"/>
+        <CursorPos X="18" Y="194"/>
         <UsageCount Value="32"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
@@ -34,7 +34,7 @@
         <Filename Value="uXplCommon.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="uXplCommon"/>
-        <EditorIndex Value="4"/>
+        <EditorIndex Value="3"/>
         <WindowIndex Value="0"/>
         <TopLine Value="22"/>
         <CursorPos X="11" Y="43"/>
@@ -46,7 +46,7 @@
         <Filename Value="MemMap.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="MemMap"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="2"/>
         <WindowIndex Value="0"/>
         <TopLine Value="20"/>
         <CursorPos X="1" Y="55"/>
@@ -83,23 +83,19 @@
       <Unit7>
         <Filename Value="..\..\TurboDelphi\XPL\SDK212\Delphi\XPLM\XPLMProcessing.pas"/>
         <UnitName Value="XPLMProcessing"/>
-        <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="240"/>
         <CursorPos X="30" Y="256"/>
         <UsageCount Value="12"/>
-        <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit7>
       <Unit8>
         <Filename Value="..\..\TurboDelphi\XPL\SDK212\Delphi\XPLM\XPLMUtilities.pas"/>
         <UnitName Value="XPLMUtilities"/>
-        <EditorIndex Value="5"/>
         <WindowIndex Value="0"/>
         <TopLine Value="872"/>
         <CursorPos X="68" Y="920"/>
         <UsageCount Value="12"/>
-        <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit8>
       <Unit9>
@@ -114,12 +110,10 @@
       <Unit10>
         <Filename Value="..\..\TurboDelphi\XPL\SDK212\Delphi\XPLM\XPLMCamera.pas"/>
         <UnitName Value="XPLMCamera"/>
-        <EditorIndex Value="6"/>
         <WindowIndex Value="0"/>
         <TopLine Value="55"/>
         <CursorPos X="1" Y="55"/>
         <UsageCount Value="12"/>
-        <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit10>
       <Unit11>

@@ -60,12 +60,12 @@
     <Version Value="11"/>
     <PathDelim Value="\"/>
     <Target>
-      <Filename Value="d:\X-Plane 10\Resources\plugins\hidmacros\64\win.xpl" ApplyConventions="False"/>
+      <Filename Value="..\out\win.xpl" ApplyConventions="False"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="c:\Work\TurboDelphi\SimConnect1A\HeaderRT\;c:\Work\TurboDelphi\SimConnect1A\;c:\Work\TurboDelphi\DirectX\Borland_D9-10\;c:\Work\TurboDelphi\Unicode\;..\..\TurboDelphi\XPL\SDK212\Delphi\XPLM"/>
-      <UnitOutputDirectory Value="C:\Work\TurboDelphi\out"/>
+      <OtherUnitFiles Value="..\inc\XPL_SDK212_XPLM"/>
+      <UnitOutputDirectory Value="..\out"/>
     </SearchPaths>
     <Parsing>
       <SyntaxOptions>

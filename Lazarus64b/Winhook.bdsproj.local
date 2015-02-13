@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2008.04.25 19:32:19.890.bdsproj,C:\Documents and Settings\user\Dokumenty\Borland Studio Projects\Project1.bdsproj=C:\Work\TurboDelphi\FSX_HID\Winhook.bdsproj</Transaction>
-    <Transaction>2008.04.25 19:33:23.078.pas,C:\Work\TurboDelphi\FSX_HID\Unit1.pas=C:\Work\TurboDelphi\FSX_HID\WHookInt.pas</Transaction>
-    <Transaction>2008.04.25 19:36:39.718.pas,C:\Work\TurboDelphi\FSX_HID\Unit1.pas=C:\Work\TurboDelphi\FSX_HID\WHookDef.pas</Transaction>
-  </Transactions>
-</BorlandProject>

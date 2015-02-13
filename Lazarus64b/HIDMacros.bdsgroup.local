@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2011.01.06 22:05:29.560.bdsgroup,C:\Users\petr\Documents\Borland Studio Projects\ProjectGroup1.bdsgroup=C:\Work\MySources\HidMacros\HIDMacros.bdsgroup</Transaction>
-  </Transactions>
-	<Default.Personality>
-		<Projects ActiveProject="HIDMacros.exe"/>
-	</Default.Personality>
-</BorlandProject>
